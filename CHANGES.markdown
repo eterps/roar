@@ -1,3 +1,7 @@
+# 0.12.9
+
+* Very last release in 0.12. Adding support for SSL certs.
+
 # 0.12.8
 
 * Last release to support representable < 2.0.
